@@ -9,6 +9,5 @@ Data Visualization Tools
 Machine Learning Algorithms : SVM Classifier , CNN (convolutional neural networks)
 Deep Learning Algorithms : SqueezeNet, MobileNetV2 , ShuffleNet
 
-#RESULTS 
-![ Detection of forgery image using fusion model]
-(https://github.com/nikkileshwarii5/image-forgery-detection/blob/250455e63f4f55827909de12d6e21438245ae783/1.jpeg)
+# RESULTS 
+![ Detection of forgery image using fusion model](https://github.com/nikkileshwarii5/image-forgery-detection/blob/250455e63f4f55827909de12d6e21438245ae783/1.jpeg)
