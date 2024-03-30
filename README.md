@@ -1,4 +1,12 @@
-# Image-Forgery-Detection
-This project detects an image forgery using fine-tuned features from light weight algorithms such as SqueezeNet, MobileNetV2, ShuffleNet and then extracted features are getting trained with SVM and then this SVM model is  giving better prediction accuracy compare to light weight algorithms.
-Due to increasing technology various tools exists to tamper image and then tampered image can cause serious issues in LAW and other fields and to detect such tamper many existing algorithms are available based on SURF, PCA, SIFT and many more but this existing technique detection accuracy is not good so author training all 3 algorithms on MICC-F220 FORGE and NORMAL images and then extract fine-tuned features from them and this fined tuned features can be classified with SVM as FORGE or NON-FORGE.
-Developed using Machine Learning and Python in the Spyder IDE, this application aids users in distinguishing between forged and non-forged images.Its user-friendly interface ensures seamless image evaluation, making it a valuable asset for various industries where image integrity is crucial.
+# Image-Forgery-Detection By Fusion of Light-Weight Deep Learning Models
+This project leverages the power of lightweight convolutional neural networks (CNNs) including SqueezeNet, MobileNetV2, and ShuffleNet for image forgery detection. By fine-tuning these models on the MICC-F220 dataset, consisting of both forged and authentic images, I have extracted high-quality features that significantly enhance detection accuracy. These extracted features are then used to train a Support Vector Machine (SVM) classifier, which demonstrates superior performance in distinguishing between forged and genuine images compared to traditional methods.
+
+TECHNICAL STACK : 
+Python Programming Language
+Numpy
+Pandas
+Data Visualization Tools
+Machine Learning Algorithms : SVM Classifier , CNN (convolutional neural networks)
+Deep Learning Algorithms : SqueezeNet, MobileNetV2 , ShuffleNet
+
+
