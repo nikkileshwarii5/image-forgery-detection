@@ -14,3 +14,10 @@ Deep Learning Algorithms : SqueezeNet, MobileNetV2 , ShuffleNet
 ![ Detection of forgery image using fusion model](https://github.com/nikkileshwarii5/image-forgery-detection/blob/250455e63f4f55827909de12d6e21438245ae783/1.jpeg)
 
  Detection of Non-forgery image using fusion model
+ (https://github.com/nikkileshwarii5/image-forgery-detection/blob/6e1de5d11a1994a0b4d2e49bf57487fb8a608de4/2.jpeg)
+
+ (https://github.com/nikkileshwarii5/image-forgery-detection/blob/6e1de5d11a1994a0b4d2e49bf57487fb8a608de4/Accuracy%20of%20SVM%20model.jpeg)
+
+ (https://github.com/nikkileshwarii5/image-forgery-detection/blob/6e1de5d11a1994a0b4d2e49bf57487fb8a608de4/Accuracy%20of%20fusion%20model.jpeg)
+
+ (https://github.com/nikkileshwarii5/image-forgery-detection/blob/3900e69c76154f23b307c2681b4388257a98608a/OutPut.jpeg)
